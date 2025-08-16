@@ -1,0 +1,6 @@
+C:\Users\artem\source\repos\SkillBox 3.0\SkillBox 3.3\bin\Debug\SkillBox 3.3.exe.config
+C:\Users\artem\source\repos\SkillBox 3.0\SkillBox 3.3\bin\Debug\SkillBox 3.3.exe
+C:\Users\artem\source\repos\SkillBox 3.0\SkillBox 3.3\bin\Debug\SkillBox 3.3.pdb
+C:\Users\artem\source\repos\SkillBox 3.0\SkillBox 3.3\obj\Debug\SkillBox 3.3.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\SkillBox 3.0\SkillBox 3.3\obj\Debug\SkillBox 3.3.exe
+C:\Users\artem\source\repos\SkillBox 3.0\SkillBox 3.3\obj\Debug\SkillBox 3.3.pdb
